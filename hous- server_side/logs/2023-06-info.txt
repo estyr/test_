@@ -1,0 +1,8 @@
+[05/06/2023 17:44:06.119] /login result crm /Error - LogonUser error - Wrong id or token/ from user /undefined
+[05/06/2023 17:44:41.807] /login result crm /Error - LogonUser error - Wrong id or token/ from user /undefined
+[05/06/2023 17:45:18.758] /login result crm /Error - LogonUser error - Wrong id or token/ from user /undefined
+[05/06/2023 17:46:35.927] /login result crm /Error - LogonUser error - Wrong id or token/ from user /undefined
+[05/06/2023 17:46:56.497] /login result crm /Error - LogonUser error - Wrong id or token/ from user /undefined
+[05/06/2023 17:47:12.549] /login result crm /Error - LogonUser error - Wrong id or token/ from user /undefined
+[05/06/2023 17:48:15.272] /login result crm /Error - LogonUser error - Wrong id or token/ from user /undefined
+[05/06/2023 17:49:44.403] /login result crm /Error - LogonUser error - Wrong id or token/ from user /undefined
